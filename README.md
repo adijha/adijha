@@ -56,13 +56,13 @@ Pursuing Major Degree in CSE.
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" src="https://img.icons8.com/material-sharp/24/000000/github.png"/>][github]
 
-[twitter]: https://twitter.com/s_amardeep9
-[linkedin]: https://linkedin.com/in/s-amardeep
-[github]: https://www.github.com/s-amardeep
+[twitter]: https://twitter.com/adijha07
+[linkedin]: https://linkedin.com/in/adijha07
+[github]: https://www.github.com/adijha
 
 <br/><hr/>
 
 :zap: Github Stats
 
-  <!--<img align="left" alt="Amardeep's Github Status" src="https://github-readme-stats.vercel.app/api?username=adijha&show_icons=true&hide_border=true&theme=dracula" />-->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-amardeep&theme=dracula&layout=compact" />
+ <img align="left" alt="Amardeep's Github Status" src="https://github-readme-stats.vercel.app/api?username=adijha&show_icons=true&hide_border=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adijha&theme=dracula&layout=compact" />
