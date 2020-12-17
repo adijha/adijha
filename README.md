@@ -1,11 +1,11 @@
-# Hi there, I'm Amardeep 👋
+# Hi there, I'm Aditya 👋
 `I'm a Developer and an Engineer!`
 
-Currently PreFinal Year Student at **_NIT Jalandhar_.**
-Pursuing ECE along with Minor Degree in CSE.
+Currently Final Year Student at **_Jaipur_National_University_.**
+Pursuing Major Degree in CSE.
 
 - Always looking ahead to learn & gain something new out of the box.
-- **Apart from Coding, I'm a cloud, ML and Data Science enthusiast!**
+- **Apart from Coding, I'm a web and mobile enthusiast!**
 
 <hr/>
 
