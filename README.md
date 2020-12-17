@@ -1,11 +1,11 @@
 # Hi there, I'm Aditya 👋
 `I'm a Developer and an Engineer!`
 
-Currently Final Year Student at **_Jaipur_National_University_.**
+Currently **_Final Year Student_.**
 Pursuing Major Degree in CSE.
 
-- Always looking ahead to learn & gain something new out of the box.
-- **Apart from Coding, I'm a web and mobile enthusiast!**
+- Always looking ahead to learn & experience something new.
+<!-- - **Apart from Coding, I'm a web and mobile enthusiast!** -->
 
 <hr/>
 
