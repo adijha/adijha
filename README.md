@@ -10,7 +10,7 @@ Pursuing Major Degree in CSE.
 <hr/>
 
 ### Programming Languages:
-<img align="left" alt="C" src="https://img.icons8.com/color/50/000000/javascript.png" />
+<img align="left" alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" />
 <img align="left" alt="C++" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="Python" src="https://img.icons8.com/ios-glyphs/50/000000/python.png" />
 <br/><br/>
@@ -23,29 +23,29 @@ Pursuing Major Degree in CSE.
 - Web Scrapping
 - Web Automation
 
-### Cloud Platforms:
-<img align="left" alt="AWS" src="https://cdn.appythings.nl/wp-content/uploads/2018/06/aws-logo-icon-PNG-Transparent-Background.png" width="75" height="75" />
-<img align="left" alt="Azure" src="https://www.wintellect.com/wp-content/uploads/2020/02/azure1.png" width="110" height="75" />
+<!--### Cloud Platforms:-->
+<!--<img align="left" alt="AWS" src="https://cdn.appythings.nl/wp-content/uploads/2018/06/aws-logo-icon-PNG-Transparent-Background.png" width="75" height="75" />-->
+<!--<img align="left" alt="Azure" src="https://www.wintellect.com/wp-content/uploads/2020/02/azure1.png" width="110" height="75" />-->
 
-<br/><br/><br/><hr/>
+<!--<br/><br/><br/><hr/>-->
 
-### Extra Co-curricular activities (Executive/Senior Member at) :
+<!--### Extra Co-curricular activities (Executive/Senior Member at) :-->
 
-- Lead of Codechef Chapter NITJ
-- Microsoft Student Ambassabor / Partner – amardeepsingh.codes
-- Developer Student Club (DSC) powered by Google developers.
-- Coding Club NITJ
-- Institution of Innovation Council (IIC) Powered by MHRD
-- Media Cell NITJ
+<!--- Lead of Codechef Chapter NITJ-->
+<!--- Microsoft Student Ambassabor / Partner – amardeepsingh.codes-->
+<!--- Developer Student Club (DSC) powered by Google developers.-->
+<!--- Coding Club NITJ-->
+<!--- Institution of Innovation Council (IIC) Powered by MHRD-->
+<!--- Media Cell NITJ-->
 
-<hr/>
+<!--<hr/>-->
 
-### Certifications:
-<img align="left" alt="Microsoft Certified : Azure Fundamentals" src="https://images.squarespace-cdn.com/content/v1/5af21c03e17ba3f52f6d007b/1564594919808-23KLDW21ITQ8T4GZOM7B/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwkCFOLgzJj4yIx-vIIEbyWWRd0QUGL6lY_wBICnBy59Ye9GKQq6_hlXZJyaybXpCc/fundamentalbadge.png" width="160" height="160" />
-<img align="left" alt="Oracle Certified Associate" src="https://images.youracclaim.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" width="165" height="165" />
-<img align="left" alt="Oracle Certified Specialist" src=https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/a3840b1f-8bcd-4f75-b843-eedcb449408e/Image/031ce4f3eae2fe5d6928f346cc8b8b3c/oracle_certification_badge_oc_specialist.png " width="150" height="160" />
-<img align="left" alt="Aviatrix Certified Engineer" src="https://2ujst446wdhv3307z249ttp0-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/ACE-Image250Asset-5.png" width="150" height="180" />
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<!--### Certifications:-->
+<!--<img align="left" alt="Microsoft Certified : Azure Fundamentals" src="https://images.squarespace-cdn.com/content/v1/5af21c03e17ba3f52f6d007b/1564594919808-23KLDW21ITQ8T4GZOM7B/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwkCFOLgzJj4yIx-vIIEbyWWRd0QUGL6lY_wBICnBy59Ye9GKQq6_hlXZJyaybXpCc/fundamentalbadge.png" width="160" height="160" />-->
+<!--<img align="left" alt="Oracle Certified Associate" src="https://images.youracclaim.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" width="165" height="165" />-->
+<!--<img align="left" alt="Oracle Certified Specialist" src=https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/a3840b1f-8bcd-4f75-b843-eedcb449408e/Image/031ce4f3eae2fe5d6928f346cc8b8b3c/oracle_certification_badge_oc_specialist.png " width="150" height="160" />-->
+<!--<img align="left" alt="Aviatrix Certified Engineer" src="https://2ujst446wdhv3307z249ttp0-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/ACE-Image250Asset-5.png" width="150" height="180" />-->
+<!--<br/><br/><br/><br/><br/><br/><br/><br/>-->
 <!--For Certification Profile / To verify the above logo's [click here](https://www.youracclaim.com/users/amardeepsingh)-->
 
 <hr/>
