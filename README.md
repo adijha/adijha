@@ -18,10 +18,8 @@ Pursuing Major Degree in CSE.
 ### Top Skills:
 
 -  **Data Structures & Algorithms**
-- Cloud Computing (Basics)
--  Machine Learning
-- Web Scrapping
-- Web Automation
+- Web Developmnt
+- Mobile Developmnet
 
 <!--### Cloud Platforms:-->
 <!--<img align="left" alt="AWS" src="https://cdn.appythings.nl/wp-content/uploads/2018/06/aws-logo-icon-PNG-Transparent-Background.png" width="75" height="75" />-->
