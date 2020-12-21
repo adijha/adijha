@@ -1,8 +1,8 @@
 # Hi there, I'm Aditya 👋
 `I'm a Developer and an Engineer!`
 
-Currently **_Final Year Student_.**
-Pursuing Major Degree in CSE.
+<!-- Currently **_Final Year Student_.**
+Pursuing Major Degree in CSE.  -->
 
 - Always looking ahead to learn & experience something new.
 <!-- - **Apart from Coding, I'm a web and mobile enthusiast!** -->
