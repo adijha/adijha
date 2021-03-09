@@ -1,5 +1,5 @@
 # Hi there, I'm Aditya 👋
-`I'm a Developer and an Engineer!`
+`I'm a Teacher and an Engineer!`
 
 <!-- Currently **_Final Year Student_.**
 Pursuing Major Degree in CSE.  -->
