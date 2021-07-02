@@ -9,6 +9,8 @@ Engineer **_@Razorpay_.**
 <hr/>
 
 ### Programming Languages:
+<img align="left" alt="Golang" src="https://img.icons8.com/color/50/000000/golang.png" />
+<img align="left" alt="Javascript" src="https://img.icons8.com/color/50/000000/typescript.png" />
 <img align="left" alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" />
 <img align="left" alt="C++" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="Python" src="https://img.icons8.com/ios-glyphs/50/000000/python.png" />
