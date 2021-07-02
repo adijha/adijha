@@ -16,7 +16,7 @@ Engineer **_@Razorpay_.**
 <img align="left" alt="Python" src="https://img.icons8.com/color/50/000000/python.png" />
 <br/><br/>
 
-### Top Skills:
+### Tech Interests:
 
 - **Golang / Fiber**
 - **Javascript / Typescript**
