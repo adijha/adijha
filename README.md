@@ -33,12 +33,14 @@ Engineer **_@Razorpay_.**
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/50/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="insta" width="30px" src="https://img.icons8.com/color/50/000000/instagram.png" />][instagram]
 [<img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/50/000000/twitter.png" />][twitter]
 [<img align="left" alt="github" width="30px"  src="https://img.icons8.com/color/50/000000/github.png" />][github]
 
 [twitter]: https://twitter.com/adijha07
 [linkedin]: https://linkedin.com/in/adijha07
 [github]: https://www.github.com/adijha
+[instagram]: https://www.instagram.com/adijha07
 
 <br/><hr/>
 
