@@ -32,7 +32,7 @@ Engineer **_@Razorpay_.**
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/color/50/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" src="https://img.icons8.com/material-sharp/24/000000/github.png"/>][github]
 
