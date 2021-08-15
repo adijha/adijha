@@ -1,5 +1,5 @@
 # Hi there, I'm Aditya 👋
-`I'm a Teacher and an Engineer!`
+<!--`I'm a Teacher and an Engineer!` -->
 
 Engineer **_@Razorpay_.**
 
