@@ -16,9 +16,9 @@ Engineer **_@Razorpay_.**
 
 ### Tech Interests:
 
-- **Golang / Fiber**
-- **Javascript / Typescript**
-- **React / React Native**
+- **Golang | Javascript | Typescript**
+- **React | React Native | Node**
+- **Postgres | Redis**
 
 <br/>
 
