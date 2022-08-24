@@ -1,10 +1,10 @@
 # Hi there, I'm Aditya 👋
-<!--`I'm a Teacher and an Engineer!` -->
 
 Engineer **_@Razorpay_.**
 
 - Always looking ahead to learn & experience something new.
-<!-- - **Apart from Coding, I'm a web and mobile enthusiast!** -->
+
+- I'm a web and mobile enthusiast!
 
 <hr/>
 
@@ -18,7 +18,7 @@ Engineer **_@Razorpay_.**
 
 - **Golang | Javascript | Typescript**
 - **React | React Native | Node**
-- **Postgres | Redis**
+- **SQL | Postgres | Redis**
 
 <br/>
 
