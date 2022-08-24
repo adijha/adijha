@@ -8,10 +8,11 @@ Engineer **_@Razorpay_.**
 
 <hr/>
 
-### I speak only these Languages:
+### Languages I have worked with:
 <img align="left" alt="Golang" src="https://img.icons8.com/color/50/000000/golang.png" />
-<img align="left" alt="Javascript" src="https://img.icons8.com/color/50/000000/typescript.png" />
+<img align="left" alt="Typescript" src="https://img.icons8.com/color/50/000000/typescript.png" />
 <img align="left" alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" />
+
 <br/><br/>
 
 ### Tech Interests:
