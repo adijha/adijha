@@ -9,15 +9,15 @@ Engineer **_@Razorpay_.**
 <hr/>
 
 ### Languages I have worked with:
-<img align="left" alt="Golang" src="https://img.icons8.com/color/50/000000/golang.png" />
 <img align="left" alt="Typescript" src="https://img.icons8.com/color/50/000000/typescript.png" />
 <img align="left" alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" />
+<img align="left" alt="Golang" src="https://img.icons8.com/color/50/000000/golang.png" />
 
 <br/><br/>
 
 ### Tech Interests:
 
-- **Golang | Javascript | Typescript**
+- **Javascript | Typescript | Golang**
 - **React | React Native | Node**
 - **SQL | Postgres | Redis**
 
