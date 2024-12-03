@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya 👋
 
-Engineer **_@JioCinema_.** ex:**_@Razorpay_.**
+Engineer **_@JioStar_.** ex:**_@Razorpay_.**
 
 - Always looking ahead to learn & experience something new.
 
